@@ -53660,7 +53660,9 @@
 	        value: function render() {
 	            var canvasStyle = {
 	                padding: 0,
-	                paddingBottom: "40px"
+	                paddingBottom: "40px",
+	                position: "relative"
+
 	            };
 
 	            return _react2.default.createElement(

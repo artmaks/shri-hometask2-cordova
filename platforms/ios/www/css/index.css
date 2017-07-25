@@ -42,8 +42,7 @@ div[class*="col-"] {
 #loading {
     position: absolute;
     top: 50px;
-    right: 50%;
-    left: 50%;
+    right: calc(50% - 10px);
 
     width: 20px;
     height: 20px;
