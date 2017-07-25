@@ -3,12 +3,10 @@
 
 # iOS
 platforms/ios/build/
-platforms/ios/www/
 platforms/ios/cordova/console.log
 *.xcuserdatad
 
 # android
-platforms/android/assets/www
 platforms/android/bin
 platforms/android/gen
 platforms/android/local.properties
