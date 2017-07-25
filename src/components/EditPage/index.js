@@ -102,7 +102,9 @@ class EditPage extends React.Component {
     render() {
         const canvasStyle = {
             padding: 0,
-            paddingBottom: "40px"
+            paddingBottom: "40px",
+            position: "relative"
+
         };
 
         return (
